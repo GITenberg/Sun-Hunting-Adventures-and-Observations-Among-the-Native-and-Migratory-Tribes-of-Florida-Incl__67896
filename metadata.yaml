@@ -1,0 +1,39 @@
+_repo: Sun-Hunting-Adventures-and-Observations-Among-the-Native-and-Migratory-Tribes-of-Florida-Incl__67896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Kenneth Lewis
+    aliases:
+    - Roberts, Kenneth L.
+    - Kilgallen, Milton
+    birthdate: 1885
+    deathdate: 1957
+    gutenberg_agent_id: '54516'
+    url: http://www.gutenberg.org/2009/agents/54516
+    wikipedia: https://en.wikipedia.org/wiki/Kenneth_Roberts_(author)
+description: ''
+gutenberg_issued: '2022-04-21'
+identifiers:
+  gutenberg: '67896'
+  lccn: '22023869'
+language: en
+pgterms:marc904: https://archive.org/details/sunhuntingadvent00robeuoft
+pgterms:marc905: 20211016102507roberts
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Chuck Greif, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :The Bobbs-Merrill Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Florida -- Description and travel'
+- !lcc 'F296'
+- GITenberg
+title: "Sun Hunting\r\nAdventures and Observations Among the Native and Migratory\
+  \ Tribes of Florida, Including the Stoical Time-Killers of Palm Beach, the Gentle\
+  \ and Gregarious Tin-Canners of the Remote Interior, and the Vivacious and Semi-Violent\
+  \ Peoples of Miami and Its Purlieus"
+url: http://www.gutenberg.org/ebooks/67896
